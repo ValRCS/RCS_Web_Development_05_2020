@@ -5,6 +5,9 @@
 # Modern Javascript explained for Dinosaurs (recommended reading!)
 https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
 
+# Javascript for experienced programmers
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 # Lighthouse accessibility tool
 * https://developers.google.com/web/tools/lighthouse/
 
